@@ -1,4 +1,4 @@
-PetCare
+  ##PetCare🐱
 PetCare is a user interface design project The main goal of this project was to design clear, user-friendly, and accessible interfaces for an animal clinic system that allows pet owners to book appointments, view pet information, and order products easily.
 
 🎯 Objective
